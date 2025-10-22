@@ -47,7 +47,7 @@ def 形态切换(形态):
     cheagn f"可切换为{形态}"
 """
 st.code(code, language="python")
-image_path = "D:\\懒懒.jpeg"  
+image_path = "懒懒.jpeg"  
 st.image(image_path, use_column_width=True)
 
 st.markdown("---")
