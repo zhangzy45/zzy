@@ -2,8 +2,8 @@ import streamlit as st
 st.set_page_config(page_title='视频网站',page_icon='🎞')
 videos = [
     {
-        'url': 'https://upos-sz-mirrorcosov.bilivideo.com/upgcxcode/25/47/808744725/808744725-1-208.mp4?e=ig8euxZM2rNcNbRVhwdVhwdlhWdVhwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&platform=html5&uipk=5&trid=dffe19d76f784313a79ea00b6c2aa0dh&og=cos&deadline=1761305042&oi=771356656&mid=0&nbs=1&gen=playurlv3&os=cosovbv&upsig=7a84200daa703502a51c757355cf35d1&uparams=e,platform,uipk,trid,og,deadline,oi,mid,nbs,gen,os&bvc=vod&nettype=0&bw=479740&build=0&dl=0&f=h_0_0&agrr=1&buvid=&orderid=0,1',
-        'title': '【驯龙高手】主题曲史诗级REMIX - Epic Orchestra Remix',
+        'url': 'https://upos-sz-mirrorcosov.bilivideo.com/upgcxcode/93/18/25882531893/25882531893-1-192.mp4?e=ig8euxZM2rNcNbRVhwdVhwdlhWdVhwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&trid=c569ab04b83b4eefb46a7d6c348b8e3h&deadline=1761305230&nbs=1&platform=html5&mid=0&oi=771356656&gen=playurlv3&os=cosovbv&og=hw&upsig=9803e484c920e20da6d82a74be45aaab&uparams=e,uipk,trid,deadline,nbs,platform,mid,oi,gen,os,og&bvc=vod&nettype=0&bw=806013&buvid=&build=0&dl=0&f=h_0_0&agrr=1&orderid=0,1',
+        'title': '【驯龙高手2】插曲《Where No One Goes》',
         'episode': '主题'
     },
     {
