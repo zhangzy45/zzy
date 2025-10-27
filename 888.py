@@ -1,7 +1,7 @@
 import streamlit as st
 
 st.title(':red[**广西大学**]')
-tab1, tab2,tad3,tad4,tad5,tad6 = st.tabs(["个人档案", "南宁美味美味","个人简历","炫美歌谣","视频网站","个人简历"])
+tab1, tab2,tad3,tad4,tad5,tad6 = st.tabs(["个人档案", "南宁美味美味","图片","炫美歌谣","视频网站","个人简历"])
 
 with tab1:
     import streamlit as st
